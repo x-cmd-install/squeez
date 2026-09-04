@@ -7,7 +7,7 @@ about:
   head: 6a7ace5
   archived: false
   latestVersion: v1.48.4
-  collectedAt: 2026-09-04T19:25:12Z
+  collectedAt: 2026-09-04T21:09:51Z
 timeline:
   created: 2026-03-23
   lastCommit: 2026-09-03
@@ -84,5 +84,68 @@ total:
   openIssue: 0
   commit: 483
 ---
+path: /home/runner/.x-repo/github.com/claudioemmanuel/squeez
+collectedAt: 2026-09-04T21:09:52Z
+loc:
+  Rust:
+    code: 35149
+    comments: 2096
+    blanks: 3171
+    files: 193
+  JavaScript:
+    code: 1977
+    comments: 397
+    blanks: 323
+    files: 20
+  Json:
+    code: 1408
+    comments: 0
+    blanks: 0
+    files: 5
+  Sh:
+    code: 1201
+    comments: 334
+    blanks: 131
+    files: 24
+  Python:
+    code: 691
+    comments: 36
+    blanks: 108
+    files: 3
+  Ini:
+    code: 297
+    comments: 36
+    blanks: 49
+    files: 1
+  TypeScript:
+    code: 70
+    comments: 8
+    blanks: 3
+    files: 1
+  Toml:
+    code: 27
+    comments: 0
+    blanks: 6
+    files: 1
+  Yaml:
+    code: 6
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 43780
+    blanks: 927
+    files: 16
+  Text:
+    code: 0
+    comments: 8592
+    blanks: 205
+    files: 32
+total:
+  code: 40953
+  comments: 57784
+  blanks: 5124
+  files: 297
 ---
 
