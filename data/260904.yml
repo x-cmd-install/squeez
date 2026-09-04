@@ -1,11 +1,13 @@
 about:
-  description: Hook-based token compressor for 5 AI CLI hosts (Claude Code, Copilot CLI, OpenCode, Gemini CLI, Codex CLI). Up to 95% bash compression, signature-mode for code reads, cross-call dedup, MCP server, self-teaching protocol. Zero runtime deps.
+  description:
+  |
+    Hook-based token compressor for 5 AI CLI hosts (Claude Code, Copilot CLI, OpenCode, Gemini CLI, Codex CLI). Up to 95% bash compression, signature-mode for code reads, cross-call dedup, MCP server, self-teaching protocol. Zero runtime deps.
   license: Apache-2.0
   homepage: 
   head: 6a7ace5
   archived: false
   latestVersion: v1.48.4
-  collectedAt: 2026-09-04T04:21:01Z
+  collectedAt: 2026-09-04T19:25:12Z
 timeline:
   created: 2026-03-23
   lastCommit: 2026-09-03
@@ -16,7 +18,7 @@ popularity:
   fork: 23
   release: 1
   contributor: 7
-  pullRequest: 16
+  pullRequest: 126
   issue: 98
 language:
   Rust: 1653324
@@ -24,7 +26,7 @@ language:
   Shell: 63110
   Python: 33647
   TypeScript: 2686
-totalLine: 1847670
+totalBytes: 1847670
 recent:
   last30d:
     since: 2026-08-05
@@ -34,6 +36,14 @@ recent:
     closedIssue: 13
     openIssue: 0
     commit: 50
+  last60d:
+    since: 2026-07-06
+    release: 1
+    mergedPR: 18
+    openPR: 0
+    closedIssue: 22
+    openIssue: 0
+    commit: 139
   last90d:
     since: 2026-06-06
     release: 1
@@ -58,3 +68,21 @@ recent:
     closedIssue: 98
     openIssue: 0
     commit: 458
+  last720d:
+    since: 2024-09-14
+    release: 1
+    mergedPR: 110
+    openPR: 0
+    closedIssue: 98
+    openIssue: 0
+    commit: 483
+total:
+  release: 1
+  mergedPR: 110
+  openPR: 0
+  closedIssue: 98
+  openIssue: 0
+  commit: 483
+---
+---
+
