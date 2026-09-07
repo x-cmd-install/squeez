@@ -5,7 +5,7 @@ about:
   head: 6a7ace5
   archived: false
   latestVersion: "v1.48.4"
-  collectedAt: 2026-09-07T06:01:05Z
+  collectedAt: 2026-09-07T18:27:13Z
 timeline:
   created: 2026-03-23
   lastCommit: 2026-09-03
@@ -17,7 +17,7 @@ popularity:
   release: 1
   contributor: 7
   pullRequest: 126
-  issue: 99
+  issue: 100
 language:
   Rust: 1653324
   JavaScript: 94903
@@ -32,7 +32,7 @@ recent:
     mergedPR: 11
     openPR: 0
     closedIssue: 13
-    openIssue: 1
+    openIssue: 2
     commit: 43
   last60d:
     since: 2026-07-09
@@ -40,7 +40,7 @@ recent:
     mergedPR: 17
     openPR: 0
     closedIssue: 22
-    openIssue: 1
+    openIssue: 2
     commit: 113
   last90d:
     since: 2026-06-09
@@ -48,7 +48,7 @@ recent:
     mergedPR: 36
     openPR: 0
     closedIssue: 40
-    openIssue: 1
+    openIssue: 2
     commit: 204
   last180d:
     since: 2026-03-11
@@ -56,7 +56,7 @@ recent:
     mergedPR: 110
     openPR: 0
     closedIssue: 98
-    openIssue: 1
+    openIssue: 2
     commit: 458
   last360d:
     since: 2025-09-12
@@ -64,7 +64,7 @@ recent:
     mergedPR: 110
     openPR: 0
     closedIssue: 98
-    openIssue: 1
+    openIssue: 2
     commit: 458
   last720d:
     since: 2024-09-17
@@ -72,18 +72,18 @@ recent:
     mergedPR: 110
     openPR: 0
     closedIssue: 98
-    openIssue: 1
+    openIssue: 2
     commit: 483
 total:
   release: 1
   mergedPR: 110
   openPR: 0
   closedIssue: 98
-  openIssue: 1
+  openIssue: 2
   commit: 483
 ---
 path: /home/runner/.x-repo/github.com/claudioemmanuel/squeez
-collectedAt: 2026-09-07T06:01:06Z
+collectedAt: 2026-09-07T18:27:14Z
 loc:
   Rust:
     code: 35149
@@ -149,7 +149,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T06:01:06+00:00
+  collectedAt: 2026-09-07T18:27:15+00:00
   platform:
     darwin/arm64:
       name:  squeez-macos-universal
