@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 354,
       "digest": "sha256:ae365a29bb86c5eaeb9cdec153a51c4a30f54321557a322a60e2a0effb39f8e0",
-      "download_count": 31,
+      "download_count": 33,
       "created_at": "2026-09-03T17:23:34Z",
       "updated_at": "2026-09-03T17:23:34Z",
       "browser_download_url": "https://github.com/claudioemmanuel/squeez/releases/download/v1.48.4/checksums.sha256"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2056992,
       "digest": "sha256:ef956365ace3aa5f362847afc000aa008d5b4a26db4ee2c5bcc0d2718d043773",
-      "download_count": 30,
+      "download_count": 32,
       "created_at": "2026-09-03T17:23:34Z",
       "updated_at": "2026-09-03T17:23:34Z",
       "browser_download_url": "https://github.com/claudioemmanuel/squeez/releases/download/v1.48.4/squeez-linux-x86_64"
