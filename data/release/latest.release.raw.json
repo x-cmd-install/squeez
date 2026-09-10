@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2052896,
       "digest": "sha256:2ffa37ab1199a082c39ccaf2767c3a3781f387f0d79a67622972ba907d240bb1",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-09-09T15:46:27Z",
       "updated_at": "2026-09-09T15:46:27Z",
       "browser_download_url": "https://github.com/claudioemmanuel/squeez/releases/download/v1.48.5/squeez-linux-x86_64"
