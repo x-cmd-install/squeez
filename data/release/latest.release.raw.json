@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/claudioemmanuel/squeez/releases/385651783",
-  "assets_url": "https://api.github.com/repos/claudioemmanuel/squeez/releases/385651783/assets",
-  "upload_url": "https://uploads.github.com/repos/claudioemmanuel/squeez/releases/385651783/assets{?name,label}",
-  "html_url": "https://github.com/claudioemmanuel/squeez/releases/tag/v1.48.5",
-  "id": 385651783,
+  "url": "https://api.github.com/repos/claudioemmanuel/squeez/releases/387214131",
+  "assets_url": "https://api.github.com/repos/claudioemmanuel/squeez/releases/387214131/assets",
+  "upload_url": "https://uploads.github.com/repos/claudioemmanuel/squeez/releases/387214131/assets{?name,label}",
+  "html_url": "https://github.com/claudioemmanuel/squeez/releases/tag/v1.48.9",
+  "id": 387214131,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDORuYkV84W_JRH",
-  "tag_name": "v1.48.5",
+  "node_id": "RE_kwDORuYkV84XFGsz",
+  "tag_name": "v1.48.9",
   "target_commitish": "main",
-  "name": "v1.48.5",
+  "name": "v1.48.9",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-09T15:44:26Z",
-  "updated_at": "2026-09-09T15:46:27Z",
-  "published_at": "2026-09-09T15:46:26Z",
+  "created_at": "2026-09-11T17:15:00Z",
+  "updated_at": "2026-09-11T17:17:15Z",
+  "published_at": "2026-09-11T17:17:14Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/claudioemmanuel/squeez/releases/assets/553072032",
-      "id": 553072032,
-      "node_id": "RA_kwDORuYkV84g9zWg",
+      "url": "https://api.github.com/repos/claudioemmanuel/squeez/releases/assets/557672295",
+      "id": 557672295,
+      "node_id": "RA_kwDORuYkV84hPWdn",
       "name": "checksums.sha256",
       "label": "",
       "uploader": {
@@ -66,16 +66,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 354,
-      "digest": "sha256:e8356d6441fb3d34860b81100daa154244f78d443d4b9394188397f087ac4e77",
-      "download_count": 15,
-      "created_at": "2026-09-09T15:46:27Z",
-      "updated_at": "2026-09-09T15:46:27Z",
-      "browser_download_url": "https://github.com/claudioemmanuel/squeez/releases/download/v1.48.5/checksums.sha256"
+      "digest": "sha256:a9d16233a8a441576fa92a87d469c1c875afa16b1eb48f3ec5c9a773e92bc744",
+      "download_count": 2,
+      "created_at": "2026-09-11T17:17:15Z",
+      "updated_at": "2026-09-11T17:17:15Z",
+      "browser_download_url": "https://github.com/claudioemmanuel/squeez/releases/download/v1.48.9/checksums.sha256"
     },
     {
-      "url": "https://api.github.com/repos/claudioemmanuel/squeez/releases/assets/553072031",
-      "id": 553072031,
-      "node_id": "RA_kwDORuYkV84g9zWf",
+      "url": "https://api.github.com/repos/claudioemmanuel/squeez/releases/assets/557672292",
+      "id": 557672292,
+      "node_id": "RA_kwDORuYkV84hPWdk",
       "name": "squeez-linux-aarch64",
       "label": "",
       "uploader": {
@@ -102,16 +102,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 1839368,
-      "digest": "sha256:267e60b7775e4c077bfad4908c7b035ca75df2ecaf049d9ab298773b8a9150e5",
-      "download_count": 0,
-      "created_at": "2026-09-09T15:46:27Z",
-      "updated_at": "2026-09-09T15:46:27Z",
-      "browser_download_url": "https://github.com/claudioemmanuel/squeez/releases/download/v1.48.5/squeez-linux-aarch64"
+      "digest": "sha256:75353b81fc1db2486a6c907b4c964566373ce65760ef9ac895ababa7dba73667",
+      "download_count": 1,
+      "created_at": "2026-09-11T17:17:15Z",
+      "updated_at": "2026-09-11T17:17:15Z",
+      "browser_download_url": "https://github.com/claudioemmanuel/squeez/releases/download/v1.48.9/squeez-linux-aarch64"
     },
     {
-      "url": "https://api.github.com/repos/claudioemmanuel/squeez/releases/assets/553072030",
-      "id": 553072030,
-      "node_id": "RA_kwDORuYkV84g9zWe",
+      "url": "https://api.github.com/repos/claudioemmanuel/squeez/releases/assets/557672293",
+      "id": 557672293,
+      "node_id": "RA_kwDORuYkV84hPWdl",
       "name": "squeez-linux-x86_64",
       "label": "",
       "uploader": {
@@ -137,17 +137,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 2052896,
-      "digest": "sha256:2ffa37ab1199a082c39ccaf2767c3a3781f387f0d79a67622972ba907d240bb1",
-      "download_count": 13,
-      "created_at": "2026-09-09T15:46:27Z",
-      "updated_at": "2026-09-09T15:46:27Z",
-      "browser_download_url": "https://github.com/claudioemmanuel/squeez/releases/download/v1.48.5/squeez-linux-x86_64"
+      "size": 2085664,
+      "digest": "sha256:1c88c9725b43f93aa695b504ddf0fddfd2488b9fb32bef43e422b62f597a6ec5",
+      "download_count": 1,
+      "created_at": "2026-09-11T17:17:15Z",
+      "updated_at": "2026-09-11T17:17:15Z",
+      "browser_download_url": "https://github.com/claudioemmanuel/squeez/releases/download/v1.48.9/squeez-linux-x86_64"
     },
     {
-      "url": "https://api.github.com/repos/claudioemmanuel/squeez/releases/assets/553072029",
-      "id": 553072029,
-      "node_id": "RA_kwDORuYkV84g9zWd",
+      "url": "https://api.github.com/repos/claudioemmanuel/squeez/releases/assets/557672294",
+      "id": 557672294,
+      "node_id": "RA_kwDORuYkV84hPWdm",
       "name": "squeez-macos-universal",
       "label": "",
       "uploader": {
@@ -173,17 +173,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 3563312,
-      "digest": "sha256:11360b0a541b3cb7e510db30cbc6c37bc9ec75e95822f0ab4df9c7564598c2c8",
-      "download_count": 9,
-      "created_at": "2026-09-09T15:46:27Z",
-      "updated_at": "2026-09-09T15:46:27Z",
-      "browser_download_url": "https://github.com/claudioemmanuel/squeez/releases/download/v1.48.5/squeez-macos-universal"
+      "size": 3612672,
+      "digest": "sha256:c9e719fb9fccd7bea965d158fca50e46326ea9a354dc3ed4bc9d9ba1a6c9dc37",
+      "download_count": 2,
+      "created_at": "2026-09-11T17:17:15Z",
+      "updated_at": "2026-09-11T17:17:15Z",
+      "browser_download_url": "https://github.com/claudioemmanuel/squeez/releases/download/v1.48.9/squeez-macos-universal"
     },
     {
-      "url": "https://api.github.com/repos/claudioemmanuel/squeez/releases/assets/553072038",
-      "id": 553072038,
-      "node_id": "RA_kwDORuYkV84g9zWm",
+      "url": "https://api.github.com/repos/claudioemmanuel/squeez/releases/assets/557672291",
+      "id": 557672291,
+      "node_id": "RA_kwDORuYkV84hPWdj",
       "name": "squeez-windows-x86_64.exe",
       "label": "",
       "uploader": {
@@ -209,27 +209,15 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 2285056,
-      "digest": "sha256:783545f6a5fa75729d5cadf250ec2799951a02e5d598d8879f3434de625b983f",
-      "download_count": 13,
-      "created_at": "2026-09-09T15:46:27Z",
-      "updated_at": "2026-09-09T15:46:27Z",
-      "browser_download_url": "https://github.com/claudioemmanuel/squeez/releases/download/v1.48.5/squeez-windows-x86_64.exe"
+      "size": 2304512,
+      "digest": "sha256:013c4c93605db3d527ab9cf296a772de951e45221bfeb3554f039f84602e5160",
+      "download_count": 1,
+      "created_at": "2026-09-11T17:17:15Z",
+      "updated_at": "2026-09-11T17:17:15Z",
+      "browser_download_url": "https://github.com/claudioemmanuel/squeez/releases/download/v1.48.9/squeez-windows-x86_64.exe"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/claudioemmanuel/squeez/tarball/v1.48.5",
-  "zipball_url": "https://api.github.com/repos/claudioemmanuel/squeez/zipball/v1.48.5",
-  "body": "### Fixed\n- fix(context): treat Fable/Mythos as native 1M window\n\n**Full changelog**: https://github.com/claudioemmanuel/squeez/compare/v1.48.4...v1.48.5\n",
-  "reactions": {
-    "url": "https://api.github.com/repos/claudioemmanuel/squeez/releases/385651783/reactions",
-    "total_count": 1,
-    "+1": 1,
-    "-1": 0,
-    "laugh": 0,
-    "hooray": 0,
-    "confused": 0,
-    "heart": 0,
-    "rocket": 0,
-    "eyes": 0
-  }
+  "tarball_url": "https://api.github.com/repos/claudioemmanuel/squeez/tarball/v1.48.9",
+  "zipball_url": "https://api.github.com/repos/claudioemmanuel/squeez/zipball/v1.48.9",
+  "body": "### Fixed\n- fix(update): cover the cargo, Windows-deferred and non-Claude paths\n- fix(update): refresh hooks with the binary just installed\n\n**Full changelog**: https://github.com/claudioemmanuel/squeez/compare/v1.48.8...v1.48.9\n"
 }
