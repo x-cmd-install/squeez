@@ -2,7 +2,7 @@
 
 [English version](./README.md)
 
-Hook-based token compressor for 5 AI CLI hosts (Claude Code, Copilot CLI, OpenCode, Gemini CLI, Codex CLI). Up to 95% bash compression, signature-mode for code reads, cross-call dedup, MCP server, self-teaching protocol. Zero runtime deps.
+Hook-based token compressor for 7 AI CLI hosts (Claude Code, Copilot CLI, OpenCode, Gemini CLI, Codex CLI, Pi, Hermes). Up to 95% bash compression, signature-mode for code reads, cross-call dedup, MCP server, self-teaching protocol. Zero runtime deps.
 
 ![squeez](https://repo.x-cmd.io/squeez.svg?lang=zh)
 
@@ -47,12 +47,12 @@ x install squeez
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 1 | 15 | 0 | 14 | 0 | 49 |
-| last60d | 2026-07-18 | 1 | 22 | 0 | 27 | 0 | 113 |
-| 90d | 2026-06-18 | 1 | 41 | 0 | 46 | 0 | 205 |
-| last180d | 2026-03-20 | 1 | 117 | 0 | 105 | 0 | 435 |
-| 360d | 2025-09-21 | 1 | 117 | 0 | 105 | 0 | 477 |
-| last720d | 2024-09-26 | 1 | 117 | 0 | 105 | 0 | 513 |
+| 30d | 2026-08-18 | 1 | 15 | 0 | 14 | 0 | 49 |
+| last60d | 2026-07-19 | 1 | 22 | 0 | 27 | 0 | 113 |
+| 90d | 2026-06-19 | 1 | 41 | 0 | 44 | 0 | 205 |
+| last180d | 2026-03-21 | 1 | 117 | 0 | 105 | 0 | 435 |
+| 360d | 2025-09-22 | 1 | 117 | 0 | 105 | 0 | 477 |
+| last720d | 2024-09-27 | 1 | 117 | 0 | 105 | 0 | 513 |
 
 ## Release 资产
 
@@ -73,4 +73,4 @@ squeez 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260916.yml` · 2026-09-16T06:45:52Z._
+_数据快照: `data/card/260917.yml` · 2026-09-17T06:44:58Z._
