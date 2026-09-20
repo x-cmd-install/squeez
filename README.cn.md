@@ -4,7 +4,7 @@
 
 Hook-based token compressor for 7 AI CLI hosts (Claude Code, Copilot CLI, OpenCode, Gemini CLI, Codex CLI, Pi, Hermes). Up to 95% bash compression, signature-mode for code reads, cross-call dedup, MCP server, self-teaching protocol. Zero runtime deps.
 
-![squeez](https://repo.x-cmd.io/squeez.svg?lang=zh)
+[![x-cmd/install — squeez Code Quality Monitoring Repo Card](https://repo.x-cmd.io/squeez.svg?lang=zh)](https://x-cmd.com/install/squeez)
 
 ## 安装
 
@@ -37,22 +37,22 @@ x install squeez
 
 ## 流行度
 
-- **Star**: 206 · **Fork**: 23 · **开放 issue**: 105 · **贡献者**: 7
+- **Star**: 207 · **Fork**: 24 · **开放 issue**: 106 · **贡献者**: 7
 
 ## 累计统计
 
-- **发布数**: 1 · **已合并 PR**: 117 · **开放 PR**: 0 · **已关闭 issue**: 105 · **开放 issue**: 0 · **提交数**: 513
+- **发布数**: 1 · **已合并 PR**: 117 · **开放 PR**: 0 · **已关闭 issue**: 105 · **开放 issue**: 1 · **提交数**: 513
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 15 | 0 | 14 | 0 | 49 |
-| last60d | 2026-07-20 | 1 | 22 | 0 | 27 | 0 | 113 |
-| 90d | 2026-06-20 | 1 | 41 | 0 | 44 | 0 | 205 |
-| last180d | 2026-03-22 | 1 | 117 | 0 | 105 | 0 | 435 |
-| 360d | 2025-09-23 | 1 | 117 | 0 | 105 | 0 | 477 |
-| last720d | 2024-09-28 | 1 | 117 | 0 | 105 | 0 | 513 |
+| 30d | 2026-08-21 | 1 | 12 | 0 | 13 | 1 | 49 |
+| last60d | 2026-07-22 | 1 | 22 | 0 | 26 | 1 | 113 |
+| 90d | 2026-06-22 | 1 | 29 | 0 | 34 | 1 | 205 |
+| last180d | 2026-03-24 | 1 | 116 | 0 | 104 | 1 | 435 |
+| 360d | 2025-09-25 | 1 | 117 | 0 | 105 | 1 | 477 |
+| last720d | 2024-09-30 | 1 | 117 | 0 | 105 | 1 | 513 |
 
 ## Release 资产
 
@@ -73,4 +73,4 @@ squeez 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:22:42Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:26:19Z._

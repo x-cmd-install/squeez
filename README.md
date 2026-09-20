@@ -4,7 +4,7 @@
 
 Hook-based token compressor for 7 AI CLI hosts (Claude Code, Copilot CLI, OpenCode, Gemini CLI, Codex CLI, Pi, Hermes). Up to 95% bash compression, signature-mode for code reads, cross-call dedup, MCP server, self-teaching protocol. Zero runtime deps.
 
-![squeez](https://repo.x-cmd.io/squeez.svg)
+[![x-cmd/install — squeez Code Quality Monitoring Repo Card](https://repo.x-cmd.io/squeez.svg)](https://x-cmd.com/install/squeez)
 
 ## Install
 
@@ -37,22 +37,22 @@ Total: **41,626** lines of code across **248** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 206 · **Forks**: 23 · **Open issues**: 105 · **Contributors**: 7
+- **Stars**: 207 · **Forks**: 24 · **Open issues**: 106 · **Contributors**: 7
 
 ## Totals (cumulative)
 
-- **Releases**: 1 · **Merged PRs**: 117 · **Open PRs**: 0 · **Closed issues**: 105 · **Open issues**: 0 · **Commits**: 513
+- **Releases**: 1 · **Merged PRs**: 117 · **Open PRs**: 0 · **Closed issues**: 105 · **Open issues**: 1 · **Commits**: 513
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 15 | 0 | 14 | 0 | 49 |
-| last60d | 2026-07-20 | 1 | 22 | 0 | 27 | 0 | 113 |
-| 90d | 2026-06-20 | 1 | 41 | 0 | 44 | 0 | 205 |
-| last180d | 2026-03-22 | 1 | 117 | 0 | 105 | 0 | 435 |
-| 360d | 2025-09-23 | 1 | 117 | 0 | 105 | 0 | 477 |
-| last720d | 2024-09-28 | 1 | 117 | 0 | 105 | 0 | 513 |
+| 30d | 2026-08-21 | 1 | 12 | 0 | 13 | 1 | 49 |
+| last60d | 2026-07-22 | 1 | 22 | 0 | 26 | 1 | 113 |
+| 90d | 2026-06-22 | 1 | 29 | 0 | 34 | 1 | 205 |
+| last180d | 2026-03-24 | 1 | 116 | 0 | 104 | 1 | 435 |
+| 360d | 2025-09-25 | 1 | 117 | 0 | 105 | 1 | 477 |
+| last720d | 2024-09-30 | 1 | 117 | 0 | 105 | 1 | 513 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for squeez lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:22:41Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:26:18Z._
