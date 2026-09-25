@@ -14,12 +14,12 @@ x install squeez
 
 ## 代码洞察
 
-合计: **41,626** 行代码（覆盖前 5 种语言、共 **248** 个文件）。
+合计: **41,663** 行代码（覆盖前 5 种语言、共 **248** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | Rust | 35,937 | 2,115 | 3,180 | 196 |
-| JavaScript | 1,986 | 403 | 324 | 20 |
+| JavaScript | 2,023 | 411 | 326 | 20 |
 | Json | 1,408 | 0 | 0 | 5 |
 | Sh | 1,201 | 334 | 130 | 24 |
 | Python | 691 | 36 | 108 | 3 |
@@ -31,38 +31,38 @@ x install squeez
 
 ## 发布
 
-- **最新版本**: `v1.48.9` (2026-09-11)
-- **最近提交**: 2026-09-11
+- **最新版本**: `v1.48.10` (2026-09-24)
+- **最近提交**: 2026-09-24
 - **Release 含资产**: 5 个
 
 ## 流行度
 
-- **Star**: 211 · **Fork**: 25 · **开放 issue**: 106 · **贡献者**: 7
+- **Star**: 212 · **Fork**: 25 · **开放 issue**: 107 · **贡献者**: 7
 
 ## 累计统计
 
-- **发布数**: 1 · **已合并 PR**: 117 · **开放 PR**: 0 · **已关闭 issue**: 105 · **开放 issue**: 1 · **提交数**: 513
+- **发布数**: 1 · **已合并 PR**: 118 · **开放 PR**: 0 · **已关闭 issue**: 106 · **开放 issue**: 1 · **提交数**: 517
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 1 | 12 | 0 | 13 | 1 | 33 |
-| last60d | 2026-07-26 | 1 | 22 | 0 | 25 | 1 | 80 |
-| 90d | 2026-06-26 | 1 | 29 | 0 | 34 | 1 | 182 |
-| last180d | 2026-03-28 | 1 | 116 | 0 | 104 | 1 | 434 |
-| 360d | 2025-09-29 | 1 | 117 | 0 | 105 | 1 | 477 |
-| last720d | 2024-10-04 | 1 | 117 | 0 | 105 | 1 | 513 |
+| 30d | 2026-08-26 | 1 | 13 | 0 | 14 | 1 | 36 |
+| last60d | 2026-07-27 | 1 | 19 | 0 | 24 | 1 | 83 |
+| 90d | 2026-06-27 | 1 | 30 | 0 | 35 | 1 | 185 |
+| last180d | 2026-03-29 | 1 | 117 | 0 | 105 | 1 | 437 |
+| 360d | 2025-09-30 | 1 | 118 | 0 | 106 | 1 | 480 |
+| last720d | 2024-10-05 | 1 | 118 | 0 | 106 | 1 | 517 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums.sha256](https://github.com/claudioemmanuel/squeez/releases/download/v1.48.9/checksums.sha256) | 354 B | `other` |
-| [squeez-linux-aarch64](https://github.com/claudioemmanuel/squeez/releases/download/v1.48.9/squeez-linux-aarch64) | 1.8 MiB | `native/linux/arm64` |
-| [squeez-linux-x86_64](https://github.com/claudioemmanuel/squeez/releases/download/v1.48.9/squeez-linux-x86_64) | 2.0 MiB | `native/linux/x64` |
-| [squeez-macos-universal](https://github.com/claudioemmanuel/squeez/releases/download/v1.48.9/squeez-macos-universal) | 3.4 MiB | `native/darwin/x64` |
-| [squeez-windows-x86_64.exe](https://github.com/claudioemmanuel/squeez/releases/download/v1.48.9/squeez-windows-x86_64.exe) | 2.2 MiB | `native/win/x64` |
+| [checksums.sha256](https://github.com/claudioemmanuel/squeez/releases/download/v1.48.10/checksums.sha256) | 354 B | `other` |
+| [squeez-linux-aarch64](https://github.com/claudioemmanuel/squeez/releases/download/v1.48.10/squeez-linux-aarch64) | 1.8 MiB | `native/linux/arm64` |
+| [squeez-linux-x86_64](https://github.com/claudioemmanuel/squeez/releases/download/v1.48.10/squeez-linux-x86_64) | 2.0 MiB | `native/linux/x64` |
+| [squeez-macos-universal](https://github.com/claudioemmanuel/squeez/releases/download/v1.48.10/squeez-macos-universal) | 3.4 MiB | `native/darwin/x64` |
+| [squeez-windows-x86_64.exe](https://github.com/claudioemmanuel/squeez/releases/download/v1.48.10/squeez-windows-x86_64.exe) | 2.2 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ squeez 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260924.yml` · 2026-09-24T06:01:10Z._
+_数据快照: `data/card/260925.yml` · 2026-09-25T06:08:25Z._

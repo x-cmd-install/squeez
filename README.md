@@ -14,12 +14,12 @@ x install squeez
 
 ## Code insight
 
-Total: **41,626** lines of code across **248** files in the top 5 languages.
+Total: **41,663** lines of code across **248** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Rust | 35,937 | 2,115 | 3,180 | 196 |
-| JavaScript | 1,986 | 403 | 324 | 20 |
+| JavaScript | 2,023 | 411 | 326 | 20 |
 | Json | 1,408 | 0 | 0 | 5 |
 | Sh | 1,201 | 334 | 130 | 24 |
 | Python | 691 | 36 | 108 | 3 |
@@ -31,38 +31,38 @@ Total: **41,626** lines of code across **248** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.48.9` (2026-09-11)
-- **Last commit**: 2026-09-11
+- **Latest**: `v1.48.10` (2026-09-24)
+- **Last commit**: 2026-09-24
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 211 · **Forks**: 25 · **Open issues**: 106 · **Contributors**: 7
+- **Stars**: 212 · **Forks**: 25 · **Open issues**: 107 · **Contributors**: 7
 
 ## Totals (cumulative)
 
-- **Releases**: 1 · **Merged PRs**: 117 · **Open PRs**: 0 · **Closed issues**: 105 · **Open issues**: 1 · **Commits**: 513
+- **Releases**: 1 · **Merged PRs**: 118 · **Open PRs**: 0 · **Closed issues**: 106 · **Open issues**: 1 · **Commits**: 517
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 1 | 12 | 0 | 13 | 1 | 33 |
-| last60d | 2026-07-26 | 1 | 22 | 0 | 25 | 1 | 80 |
-| 90d | 2026-06-26 | 1 | 29 | 0 | 34 | 1 | 182 |
-| last180d | 2026-03-28 | 1 | 116 | 0 | 104 | 1 | 434 |
-| 360d | 2025-09-29 | 1 | 117 | 0 | 105 | 1 | 477 |
-| last720d | 2024-10-04 | 1 | 117 | 0 | 105 | 1 | 513 |
+| 30d | 2026-08-26 | 1 | 13 | 0 | 14 | 1 | 36 |
+| last60d | 2026-07-27 | 1 | 19 | 0 | 24 | 1 | 83 |
+| 90d | 2026-06-27 | 1 | 30 | 0 | 35 | 1 | 185 |
+| last180d | 2026-03-29 | 1 | 117 | 0 | 105 | 1 | 437 |
+| 360d | 2025-09-30 | 1 | 118 | 0 | 106 | 1 | 480 |
+| last720d | 2024-10-05 | 1 | 118 | 0 | 106 | 1 | 517 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.sha256](https://github.com/claudioemmanuel/squeez/releases/download/v1.48.9/checksums.sha256) | 354 B | `other` |
-| [squeez-linux-aarch64](https://github.com/claudioemmanuel/squeez/releases/download/v1.48.9/squeez-linux-aarch64) | 1.8 MiB | `native/linux/arm64` |
-| [squeez-linux-x86_64](https://github.com/claudioemmanuel/squeez/releases/download/v1.48.9/squeez-linux-x86_64) | 2.0 MiB | `native/linux/x64` |
-| [squeez-macos-universal](https://github.com/claudioemmanuel/squeez/releases/download/v1.48.9/squeez-macos-universal) | 3.4 MiB | `native/darwin/x64` |
-| [squeez-windows-x86_64.exe](https://github.com/claudioemmanuel/squeez/releases/download/v1.48.9/squeez-windows-x86_64.exe) | 2.2 MiB | `native/win/x64` |
+| [checksums.sha256](https://github.com/claudioemmanuel/squeez/releases/download/v1.48.10/checksums.sha256) | 354 B | `other` |
+| [squeez-linux-aarch64](https://github.com/claudioemmanuel/squeez/releases/download/v1.48.10/squeez-linux-aarch64) | 1.8 MiB | `native/linux/arm64` |
+| [squeez-linux-x86_64](https://github.com/claudioemmanuel/squeez/releases/download/v1.48.10/squeez-linux-x86_64) | 2.0 MiB | `native/linux/x64` |
+| [squeez-macos-universal](https://github.com/claudioemmanuel/squeez/releases/download/v1.48.10/squeez-macos-universal) | 3.4 MiB | `native/darwin/x64` |
+| [squeez-windows-x86_64.exe](https://github.com/claudioemmanuel/squeez/releases/download/v1.48.10/squeez-windows-x86_64.exe) | 2.2 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for squeez lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T06:01:09Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T06:08:24Z._
