@@ -14,11 +14,11 @@ x install squeez
 
 ## Code insight
 
-Total: **42,042** lines of code across **250** files in the top 5 languages.
+Total: **42,135** lines of code across **250** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 36,138 | 2,133 | 3,198 | 197 |
+| Rust | 36,231 | 2,146 | 3,209 | 197 |
 | JavaScript | 2,201 | 437 | 331 | 21 |
 | Json | 1,408 | 0 | 0 | 5 |
 | Sh | 1,201 | 334 | 130 | 24 |
@@ -32,27 +32,27 @@ Total: **42,042** lines of code across **250** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.48.15` (2026-10-05)
-- **Last commit**: 2026-10-05
+- **Last commit**: 2026-10-07
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 214 · **Forks**: 26 · **Open issues**: 111 · **Contributors**: 8
+- **Stars**: 216 · **Forks**: 26 · **Open issues**: 112 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 1 · **Merged PRs**: 123 · **Open PRs**: 2 · **Closed issues**: 110 · **Open issues**: 1 · **Commits**: 540
+- **Releases**: 1 · **Merged PRs**: 124 · **Open PRs**: 2 · **Closed issues**: 110 · **Open issues**: 2 · **Commits**: 543
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 1 | 13 | 2 | 10 | 1 | 34 |
-| last60d | 2026-08-08 | 1 | 24 | 2 | 25 | 1 | 83 |
-| 90d | 2026-07-09 | 1 | 30 | 2 | 34 | 1 | 171 |
-| last180d | 2026-04-10 | 1 | 106 | 2 | 105 | 1 | 404 |
-| 360d | 2025-10-12 | 1 | 123 | 2 | 110 | 1 | 495 |
-| last720d | 2024-10-17 | 1 | 123 | 2 | 110 | 1 | 540 |
+| 30d | 2026-09-08 | 1 | 14 | 2 | 10 | 2 | 36 |
+| last60d | 2026-08-09 | 1 | 25 | 2 | 25 | 2 | 85 |
+| 90d | 2026-07-10 | 1 | 29 | 2 | 32 | 2 | 173 |
+| last180d | 2026-04-11 | 1 | 107 | 2 | 105 | 2 | 406 |
+| 360d | 2025-10-13 | 1 | 124 | 2 | 110 | 2 | 497 |
+| last720d | 2024-10-18 | 1 | 124 | 2 | 110 | 2 | 543 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for squeez lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T07:07:55Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T07:23:40Z._
