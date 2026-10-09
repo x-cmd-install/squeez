@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/claudioemmanuel/squeez/releases/403917988",
-  "assets_url": "https://api.github.com/repos/claudioemmanuel/squeez/releases/403917988/assets",
-  "upload_url": "https://uploads.github.com/repos/claudioemmanuel/squeez/releases/403917988/assets{?name,label}",
-  "html_url": "https://github.com/claudioemmanuel/squeez/releases/tag/v1.48.15",
-  "id": 403917988,
+  "url": "https://api.github.com/repos/claudioemmanuel/squeez/releases/407019206",
+  "assets_url": "https://api.github.com/repos/claudioemmanuel/squeez/releases/407019206/assets",
+  "upload_url": "https://uploads.github.com/repos/claudioemmanuel/squeez/releases/407019206/assets{?name,label}",
+  "html_url": "https://github.com/claudioemmanuel/squeez/releases/tag/v1.48.18",
+  "id": 407019206,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDORuYkV84YE0yk",
-  "tag_name": "v1.48.15",
+  "node_id": "RE_kwDORuYkV84YQp7G",
+  "tag_name": "v1.48.18",
   "target_commitish": "main",
-  "name": "v1.48.15",
+  "name": "v1.48.18",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-05T16:28:25Z",
-  "updated_at": "2026-10-05T16:30:33Z",
-  "published_at": "2026-10-05T16:30:32Z",
+  "created_at": "2026-10-08T16:00:01Z",
+  "updated_at": "2026-10-08T16:01:36Z",
+  "published_at": "2026-10-08T16:01:35Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/claudioemmanuel/squeez/releases/assets/613092069",
-      "id": 613092069,
-      "node_id": "RA_kwDORuYkV84kiwrl",
+      "url": "https://api.github.com/repos/claudioemmanuel/squeez/releases/assets/622303801",
+      "id": 622303801,
+      "node_id": "RA_kwDORuYkV84lF5o5",
       "name": "checksums.sha256",
       "label": "",
       "uploader": {
@@ -66,16 +66,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 354,
-      "digest": "sha256:8d540217bc364b0794a16fe4b2041d4b0d07628ece0b7b6b46fe3153f4689e16",
-      "download_count": 29,
-      "created_at": "2026-10-05T16:30:32Z",
-      "updated_at": "2026-10-05T16:30:33Z",
-      "browser_download_url": "https://github.com/claudioemmanuel/squeez/releases/download/v1.48.15/checksums.sha256"
+      "digest": "sha256:6b7c7b39f421bf465f391535242b5e292269eb529af27bc2e784c016b5d1b22d",
+      "download_count": 12,
+      "created_at": "2026-10-08T16:01:35Z",
+      "updated_at": "2026-10-08T16:01:36Z",
+      "browser_download_url": "https://github.com/claudioemmanuel/squeez/releases/download/v1.48.18/checksums.sha256"
     },
     {
-      "url": "https://api.github.com/repos/claudioemmanuel/squeez/releases/assets/613092078",
-      "id": 613092078,
-      "node_id": "RA_kwDORuYkV84kiwru",
+      "url": "https://api.github.com/repos/claudioemmanuel/squeez/releases/assets/622303803",
+      "id": 622303803,
+      "node_id": "RA_kwDORuYkV84lF5o7",
       "name": "squeez-linux-aarch64",
       "label": "",
       "uploader": {
@@ -102,16 +102,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 1839496,
-      "digest": "sha256:1cc10a429ad8f28d25fbbdb00beca2c076db14a6187bb78a84e4c31a6f3c8b97",
+      "digest": "sha256:89c5d487f3b5a1aee414e99471ae465c6cba6119135e422bf01963a22a988393",
       "download_count": 0,
-      "created_at": "2026-10-05T16:30:32Z",
-      "updated_at": "2026-10-05T16:30:33Z",
-      "browser_download_url": "https://github.com/claudioemmanuel/squeez/releases/download/v1.48.15/squeez-linux-aarch64"
+      "created_at": "2026-10-08T16:01:35Z",
+      "updated_at": "2026-10-08T16:01:36Z",
+      "browser_download_url": "https://github.com/claudioemmanuel/squeez/releases/download/v1.48.18/squeez-linux-aarch64"
     },
     {
-      "url": "https://api.github.com/repos/claudioemmanuel/squeez/releases/assets/613092080",
-      "id": 613092080,
-      "node_id": "RA_kwDORuYkV84kiwrw",
+      "url": "https://api.github.com/repos/claudioemmanuel/squeez/releases/assets/622303805",
+      "id": 622303805,
+      "node_id": "RA_kwDORuYkV84lF5o9",
       "name": "squeez-linux-x86_64",
       "label": "",
       "uploader": {
@@ -137,17 +137,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 2085792,
-      "digest": "sha256:1404d659adebce20109747895f0d80473981cf626826098fb8fd0321932248a2",
-      "download_count": 15,
-      "created_at": "2026-10-05T16:30:32Z",
-      "updated_at": "2026-10-05T16:30:33Z",
-      "browser_download_url": "https://github.com/claudioemmanuel/squeez/releases/download/v1.48.15/squeez-linux-x86_64"
+      "size": 2118560,
+      "digest": "sha256:0aca3560464b643a98519a149ee4568720931164beaba3910b27ec1547142825",
+      "download_count": 19,
+      "created_at": "2026-10-08T16:01:35Z",
+      "updated_at": "2026-10-08T16:01:36Z",
+      "browser_download_url": "https://github.com/claudioemmanuel/squeez/releases/download/v1.48.18/squeez-linux-x86_64"
     },
     {
-      "url": "https://api.github.com/repos/claudioemmanuel/squeez/releases/assets/613092077",
-      "id": 613092077,
-      "node_id": "RA_kwDORuYkV84kiwrt",
+      "url": "https://api.github.com/repos/claudioemmanuel/squeez/releases/assets/622303807",
+      "id": 622303807,
+      "node_id": "RA_kwDORuYkV84lF5o_",
       "name": "squeez-macos-universal",
       "label": "",
       "uploader": {
@@ -173,17 +173,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 3612688,
-      "digest": "sha256:10fa5133033a2bfefa191029072ccd3f01f4ac1a9e14c9d9bf508d1029d97379",
-      "download_count": 5,
-      "created_at": "2026-10-05T16:30:32Z",
-      "updated_at": "2026-10-05T16:30:33Z",
-      "browser_download_url": "https://github.com/claudioemmanuel/squeez/releases/download/v1.48.15/squeez-macos-universal"
+      "size": 3678624,
+      "digest": "sha256:8e29e1f608eb0f2d6974c0ee020205491bdaa160b525a854ffb0b3eb7f21c939",
+      "download_count": 3,
+      "created_at": "2026-10-08T16:01:35Z",
+      "updated_at": "2026-10-08T16:01:36Z",
+      "browser_download_url": "https://github.com/claudioemmanuel/squeez/releases/download/v1.48.18/squeez-macos-universal"
     },
     {
-      "url": "https://api.github.com/repos/claudioemmanuel/squeez/releases/assets/613092072",
-      "id": 613092072,
-      "node_id": "RA_kwDORuYkV84kiwro",
+      "url": "https://api.github.com/repos/claudioemmanuel/squeez/releases/assets/622303809",
+      "id": 622303809,
+      "node_id": "RA_kwDORuYkV84lF5pB",
       "name": "squeez-windows-x86_64.exe",
       "label": "",
       "uploader": {
@@ -209,15 +209,15 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 2335232,
-      "digest": "sha256:5b89067291e869b5ebb1b05a0f0ed5c978bf87eed59f607f40f58c0f4dd91c53",
-      "download_count": 14,
-      "created_at": "2026-10-05T16:30:32Z",
-      "updated_at": "2026-10-05T16:30:33Z",
-      "browser_download_url": "https://github.com/claudioemmanuel/squeez/releases/download/v1.48.15/squeez-windows-x86_64.exe"
+      "size": 2365440,
+      "digest": "sha256:3e01cc8d53ff45d1a21ca0cef53fa53a1ae6a1571eb5bfeccf7fd05f5c4e29fd",
+      "download_count": 3,
+      "created_at": "2026-10-08T16:01:35Z",
+      "updated_at": "2026-10-08T16:01:36Z",
+      "browser_download_url": "https://github.com/claudioemmanuel/squeez/releases/download/v1.48.18/squeez-windows-x86_64.exe"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/claudioemmanuel/squeez/tarball/v1.48.15",
-  "zipball_url": "https://api.github.com/repos/claudioemmanuel/squeez/zipball/v1.48.15",
-  "body": "### Fixed\n- fix(opencode): silence the progress stream in the PowerShell wrapper\n\n**Full changelog**: https://github.com/claudioemmanuel/squeez/compare/v1.48.14...v1.48.15\n"
+  "tarball_url": "https://api.github.com/repos/claudioemmanuel/squeez/tarball/v1.48.18",
+  "zipball_url": "https://api.github.com/repos/claudioemmanuel/squeez/zipball/v1.48.18",
+  "body": "### Changed\n- test(wrap): shorten the MSYS sleeper so a regression cannot stall CI for hours\n\n### Fixed\n- fix(wrap): bound the post-exit drain, kill MSYS children and stop leaking std handles on Windows\n\n**Full changelog**: https://github.com/claudioemmanuel/squeez/compare/v1.48.17...v1.48.18\n"
 }
