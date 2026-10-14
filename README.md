@@ -37,22 +37,22 @@ Total: **42,698** lines of code across **252** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 215 · **Forks**: 26 · **Open issues**: 116 · **Contributors**: 8
+- **Stars**: 216 · **Forks**: 27 · **Open issues**: 122 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 1 · **Merged PRs**: 127 · **Open PRs**: 1 · **Closed issues**: 116 · **Open issues**: 0 · **Commits**: 558
+- **Releases**: 1 · **Merged PRs**: 127 · **Open PRs**: 3 · **Closed issues**: 116 · **Open issues**: 6 · **Commits**: 558
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 1 | 10 | 1 | 11 | 0 | 32 |
-| last60d | 2026-08-14 | 1 | 25 | 1 | 25 | 0 | 94 |
-| 90d | 2026-07-15 | 1 | 32 | 1 | 38 | 0 | 164 |
-| last180d | 2026-04-16 | 1 | 106 | 1 | 109 | 0 | 350 |
-| 360d | 2025-10-18 | 1 | 127 | 1 | 116 | 0 | 509 |
-| last720d | 2024-10-23 | 1 | 127 | 1 | 116 | 0 | 558 |
+| 30d | 2026-09-14 | 1 | 10 | 3 | 11 | 6 | 32 |
+| last60d | 2026-08-15 | 1 | 25 | 3 | 25 | 6 | 94 |
+| 90d | 2026-07-16 | 1 | 32 | 3 | 38 | 6 | 164 |
+| last180d | 2026-04-17 | 1 | 105 | 3 | 108 | 6 | 350 |
+| 360d | 2025-10-19 | 1 | 127 | 3 | 116 | 6 | 509 |
+| last720d | 2024-10-24 | 1 | 127 | 3 | 116 | 6 | 558 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for squeez lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T08:14:53Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T06:03:44Z._
