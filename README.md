@@ -47,12 +47,12 @@ Total: **42,698** lines of code across **252** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 1 | 10 | 6 | 11 | 7 | 29 |
-| last60d | 2026-08-19 | 1 | 25 | 6 | 25 | 7 | 65 |
-| 90d | 2026-07-20 | 1 | 32 | 6 | 38 | 7 | 121 |
-| last180d | 2026-04-21 | 1 | 84 | 6 | 88 | 7 | 335 |
-| 360d | 2025-10-23 | 1 | 127 | 6 | 116 | 7 | 509 |
-| last720d | 2024-10-28 | 1 | 127 | 6 | 116 | 7 | 558 |
+| 30d | 2026-09-19 | 1 | 10 | 6 | 11 | 7 | 29 |
+| last60d | 2026-08-20 | 1 | 22 | 6 | 24 | 7 | 65 |
+| 90d | 2026-07-21 | 1 | 32 | 6 | 38 | 7 | 121 |
+| last180d | 2026-04-22 | 1 | 79 | 6 | 88 | 7 | 335 |
+| 360d | 2025-10-24 | 1 | 127 | 6 | 116 | 7 | 509 |
+| last720d | 2024-10-29 | 1 | 127 | 6 | 116 | 7 | 558 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for squeez lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T05:35:18Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T05:45:07Z._
