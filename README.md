@@ -14,14 +14,14 @@ x install squeez
 
 ## Code insight
 
-Total: **42,698** lines of code across **252** files in the top 5 languages.
+Total: **44,525** lines of code across **256** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 36,518 | 2,168 | 3,254 | 199 |
-| JavaScript | 2,477 | 456 | 346 | 21 |
+| Rust | 37,976 | 2,207 | 3,401 | 201 |
+| JavaScript | 2,844 | 514 | 387 | 23 |
 | Json | 1,408 | 0 | 0 | 5 |
-| Sh | 1,201 | 334 | 130 | 24 |
+| Sh | 1,203 | 334 | 130 | 24 |
 | Python | 691 | 36 | 108 | 3 |
 
 ## Source
@@ -31,38 +31,38 @@ Total: **42,698** lines of code across **252** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.48.18` (2026-10-08)
-- **Last commit**: 2026-10-08
+- **Latest**: `v1.48.24` (2026-10-19)
+- **Last commit**: 2026-10-19
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 217 · **Forks**: 29 · **Open issues**: 123 · **Contributors**: 8
+- **Stars**: 217 · **Forks**: 30 · **Open issues**: 124 · **Contributors**: 9
 
 ## Totals (cumulative)
 
-- **Releases**: 1 · **Merged PRs**: 127 · **Open PRs**: 6 · **Closed issues**: 116 · **Open issues**: 7 · **Commits**: 558
+- **Releases**: 1 · **Merged PRs**: 135 · **Open PRs**: 1 · **Closed issues**: 123 · **Open issues**: 1 · **Commits**: 590
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 1 | 10 | 6 | 11 | 7 | 29 |
-| last60d | 2026-08-20 | 1 | 22 | 6 | 24 | 7 | 65 |
-| 90d | 2026-07-21 | 1 | 32 | 6 | 38 | 7 | 121 |
-| last180d | 2026-04-22 | 1 | 79 | 6 | 88 | 7 | 335 |
-| 360d | 2025-10-24 | 1 | 127 | 6 | 116 | 7 | 509 |
-| last720d | 2024-10-29 | 1 | 127 | 6 | 116 | 7 | 558 |
+| 30d | 2026-09-20 | 1 | 18 | 1 | 17 | 1 | 52 |
+| last60d | 2026-08-21 | 1 | 30 | 1 | 31 | 1 | 88 |
+| 90d | 2026-07-22 | 1 | 40 | 1 | 44 | 1 | 144 |
+| last180d | 2026-04-23 | 1 | 87 | 1 | 95 | 1 | 358 |
+| 360d | 2025-10-25 | 1 | 135 | 1 | 123 | 1 | 532 |
+| last720d | 2024-10-30 | 1 | 135 | 1 | 123 | 1 | 590 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.sha256](https://github.com/claudioemmanuel/squeez/releases/download/v1.48.18/checksums.sha256) | 354 B | `other` |
-| [squeez-linux-aarch64](https://github.com/claudioemmanuel/squeez/releases/download/v1.48.18/squeez-linux-aarch64) | 1.8 MiB | `native/linux/arm64` |
-| [squeez-linux-x86_64](https://github.com/claudioemmanuel/squeez/releases/download/v1.48.18/squeez-linux-x86_64) | 2.0 MiB | `native/linux/x64` |
-| [squeez-macos-universal](https://github.com/claudioemmanuel/squeez/releases/download/v1.48.18/squeez-macos-universal) | 3.5 MiB | `native/darwin/x64` |
-| [squeez-windows-x86_64.exe](https://github.com/claudioemmanuel/squeez/releases/download/v1.48.18/squeez-windows-x86_64.exe) | 2.3 MiB | `native/win/x64` |
+| [checksums.sha256](https://github.com/claudioemmanuel/squeez/releases/download/v1.48.24/checksums.sha256) | 354 B | `other` |
+| [squeez-linux-aarch64](https://github.com/claudioemmanuel/squeez/releases/download/v1.48.24/squeez-linux-aarch64) | 1.8 MiB | `native/linux/arm64` |
+| [squeez-linux-x86_64](https://github.com/claudioemmanuel/squeez/releases/download/v1.48.24/squeez-linux-x86_64) | 2.1 MiB | `native/linux/x64` |
+| [squeez-macos-universal](https://github.com/claudioemmanuel/squeez/releases/download/v1.48.24/squeez-macos-universal) | 3.6 MiB | `native/darwin/x64` |
+| [squeez-windows-x86_64.exe](https://github.com/claudioemmanuel/squeez/releases/download/v1.48.24/squeez-windows-x86_64.exe) | 2.3 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for squeez lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T05:45:07Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T05:59:37Z._
