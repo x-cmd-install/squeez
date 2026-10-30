@@ -1,0 +1,154 @@
+about:
+  description: "Hook-based token compressor for 7 AI CLI hosts (Claude Code, Copilot CLI, OpenCode, Gemini CLI, Codex CLI, Pi, Hermes). Up to 95% bash compression, signature-mode for code reads, cross-call dedup, MCP server, self-teaching protocol. Zero runtime deps."
+  license: Apache-2.0
+  homepage: 
+  head: 4446cf8
+  archived: false
+  latestVersion: "v1.49.1"
+  latestRelease: "v1.49.1"
+  latestPrerelease: ""
+  collectedAt: 2026-10-30T06:58:48Z
+timeline:
+  created: 2026-03-23
+  lastCommit: 2026-10-28
+  lastVersion: 2026-10-28
+  lastRelease: 2026-10-28
+  lastPrerelease: 
+popularity:
+  star: 219
+  watcher: 2
+  fork: 28
+  release: 1
+  contributor: 10
+  pullRequest: 163
+  issue: 129
+language:
+  Rust: 1813575
+  JavaScript: 138995
+  Shell: 63694
+  Python: 39446
+  TypeScript: 2761
+totalBytes: 2058471
+recent:
+  last30d:
+    since: 2026-09-30
+    release: 1
+    mergedPR: 22
+    openPR: 0
+    closedIssue: 19
+    openIssue: 1
+    commit: 66
+  last60d:
+    since: 2026-08-31
+    release: 1
+    mergedPR: 34
+    openPR: 0
+    closedIssue: 34
+    openIssue: 1
+    commit: 97
+  last90d:
+    since: 2026-08-01
+    release: 1
+    mergedPR: 41
+    openPR: 0
+    closedIssue: 43
+    openIssue: 1
+    commit: 147
+  last180d:
+    since: 2026-05-03
+    release: 1
+    mergedPR: 89
+    openPR: 0
+    closedIssue: 96
+    openIssue: 1
+    commit: 363
+  last360d:
+    since: 2025-11-04
+    release: 1
+    mergedPR: 140
+    openPR: 0
+    closedIssue: 128
+    openIssue: 1
+    commit: 546
+  last720d:
+    since: 2024-11-09
+    release: 1
+    mergedPR: 140
+    openPR: 0
+    closedIssue: 128
+    openIssue: 1
+    commit: 611
+total:
+  release: 1
+  mergedPR: 140
+  openPR: 0
+  closedIssue: 128
+  openIssue: 1
+  commit: 611
+---
+path: /home/runner/.x-repo/github.com/claudioemmanuel/squeez
+collectedAt: 2026-10-30T06:58:50Z
+loc:
+  Rust:
+    code: 38281
+    comments: 2232
+    blanks: 3426
+    files: 201
+  JavaScript:
+    code: 2847
+    comments: 515
+    blanks: 387
+    files: 23
+  Json:
+    code: 1408
+    comments: 0
+    blanks: 0
+    files: 5
+  Sh:
+    code: 1207
+    comments: 338
+    blanks: 130
+    files: 24
+  Python:
+    code: 829
+    comments: 35
+    blanks: 135
+    files: 4
+  Ini:
+    code: 297
+    comments: 36
+    blanks: 49
+    files: 1
+  TypeScript:
+    code: 73
+    comments: 8
+    blanks: 3
+    files: 1
+  Toml:
+    code: 27
+    comments: 0
+    blanks: 6
+    files: 1
+  Yaml:
+    code: 7
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 62129
+    blanks: 1094
+    files: 17
+  Text:
+    code: 0
+    comments: 8592
+    blanks: 205
+    files: 32
+total:
+  code: 45117
+  comments: 76700
+  blanks: 5653
+  files: 310
+---
+
+---
