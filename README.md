@@ -37,7 +37,7 @@ Total: **45,580** lines of code across **262** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 232 · **Forks**: 28 · **Open issues**: 130 · **Contributors**: 10
+- **Stars**: 231 · **Forks**: 28 · **Open issues**: 130 · **Contributors**: 10
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **45,580** lines of code across **262** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 1 | 12 | 0 | 8 | 0 | 20 |
-| last60d | 2026-09-16 | 1 | 25 | 0 | 25 | 0 | 76 |
-| 90d | 2026-08-17 | 1 | 40 | 0 | 39 | 0 | 109 |
-| last180d | 2026-05-19 | 1 | 70 | 0 | 75 | 0 | 314 |
-| 360d | 2025-11-20 | 1 | 142 | 0 | 130 | 0 | 553 |
-| last720d | 2024-11-25 | 1 | 142 | 0 | 130 | 0 | 620 |
+| 30d | 2026-10-17 | 1 | 11 | 0 | 7 | 0 | 20 |
+| last60d | 2026-09-17 | 1 | 25 | 0 | 25 | 0 | 76 |
+| 90d | 2026-08-18 | 1 | 40 | 0 | 39 | 0 | 109 |
+| last180d | 2026-05-20 | 1 | 70 | 0 | 75 | 0 | 314 |
+| 360d | 2025-11-21 | 1 | 142 | 0 | 130 | 0 | 553 |
+| last720d | 2024-11-26 | 1 | 142 | 0 | 130 | 0 | 620 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for squeez lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T08:14:04Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T08:34:08Z._
