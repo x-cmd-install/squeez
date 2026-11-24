@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 354,
       "digest": "sha256:6051f960dc98a8a66e35ba5ae09f935b03b6e3283a8fb0adefd7fc4ebd7d3dfa",
-      "download_count": 103,
+      "download_count": 110,
       "created_at": "2026-11-13T18:02:08Z",
       "updated_at": "2026-11-13T18:02:09Z",
       "browser_download_url": "https://github.com/claudioemmanuel/squeez/releases/download/v1.49.3/checksums.sha256"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2196392,
       "digest": "sha256:1d1919900482c958255a4e35b5c95301ea9a71e86fedf0c9387b7bc48f8dd6a1",
-      "download_count": 99,
+      "download_count": 114,
       "created_at": "2026-11-13T18:02:08Z",
       "updated_at": "2026-11-13T18:02:09Z",
       "browser_download_url": "https://github.com/claudioemmanuel/squeez/releases/download/v1.49.3/squeez-linux-x86_64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 3810448,
       "digest": "sha256:92916f66c16dcdf86410235bcaeaddd8083fb146ca614694d58b1e6b7bc766b7",
-      "download_count": 49,
+      "download_count": 53,
       "created_at": "2026-11-13T18:02:08Z",
       "updated_at": "2026-11-13T18:02:09Z",
       "browser_download_url": "https://github.com/claudioemmanuel/squeez/releases/download/v1.49.3/squeez-macos-universal"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 2490368,
       "digest": "sha256:044d4babad8d120260ddcf95d25fbf3ff3ab79338f4fa4d2078f147be2931aeb",
-      "download_count": 78,
+      "download_count": 82,
       "created_at": "2026-11-13T18:02:08Z",
       "updated_at": "2026-11-13T18:02:09Z",
       "browser_download_url": "https://github.com/claudioemmanuel/squeez/releases/download/v1.49.3/squeez-windows-x86_64.exe"
