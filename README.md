@@ -31,38 +31,38 @@ Total: **48,027** lines of code across **276** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.49.3` (2026-11-13)
-- **Last commit**: 2026-11-23
+- **Latest**: `v1.50.0` (2026-11-24)
+- **Last commit**: 2026-11-24
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 243 · **Forks**: 30 · **Open issues**: 131 · **Contributors**: 10
+- **Stars**: 244 · **Forks**: 30 · **Open issues**: 131 · **Contributors**: 10
 
 ## Totals (cumulative)
 
-- **Releases**: 1 · **Merged PRs**: 143 · **Open PRs**: 0 · **Closed issues**: 131 · **Open issues**: 0 · **Commits**: 639
+- **Releases**: 1 · **Merged PRs**: 143 · **Open PRs**: 0 · **Closed issues**: 131 · **Open issues**: 0 · **Commits**: 641
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 7 | 0 | 7 | 0 | 24 |
-| last60d | 2026-09-25 | 1 | 25 | 0 | 24 | 0 | 90 |
-| 90d | 2026-08-26 | 1 | 38 | 0 | 39 | 0 | 126 |
-| last180d | 2026-05-28 | 1 | 71 | 0 | 76 | 0 | 331 |
-| 360d | 2025-11-29 | 1 | 143 | 0 | 131 | 0 | 570 |
-| last720d | 2024-12-04 | 1 | 143 | 0 | 131 | 0 | 639 |
+| 30d | 2026-10-26 | 1 | 7 | 0 | 7 | 0 | 26 |
+| last60d | 2026-09-26 | 1 | 25 | 0 | 24 | 0 | 92 |
+| 90d | 2026-08-27 | 1 | 38 | 0 | 38 | 0 | 128 |
+| last180d | 2026-05-29 | 1 | 71 | 0 | 76 | 0 | 333 |
+| 360d | 2025-11-30 | 1 | 143 | 0 | 131 | 0 | 572 |
+| last720d | 2024-12-05 | 1 | 143 | 0 | 131 | 0 | 641 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.sha256](https://github.com/claudioemmanuel/squeez/releases/download/v1.49.3/checksums.sha256) | 354 B | `other` |
-| [squeez-linux-aarch64](https://github.com/claudioemmanuel/squeez/releases/download/v1.49.3/squeez-linux-aarch64) | 1.8 MiB | `native/linux/arm64` |
-| [squeez-linux-x86_64](https://github.com/claudioemmanuel/squeez/releases/download/v1.49.3/squeez-linux-x86_64) | 2.1 MiB | `native/linux/x64` |
-| [squeez-macos-universal](https://github.com/claudioemmanuel/squeez/releases/download/v1.49.3/squeez-macos-universal) | 3.6 MiB | `native/darwin/x64` |
-| [squeez-windows-x86_64.exe](https://github.com/claudioemmanuel/squeez/releases/download/v1.49.3/squeez-windows-x86_64.exe) | 2.4 MiB | `native/win/x64` |
+| [checksums.sha256](https://github.com/claudioemmanuel/squeez/releases/download/v1.50.0/checksums.sha256) | 354 B | `other` |
+| [squeez-linux-aarch64](https://github.com/claudioemmanuel/squeez/releases/download/v1.50.0/squeez-linux-aarch64) | 2.0 MiB | `native/linux/arm64` |
+| [squeez-linux-x86_64](https://github.com/claudioemmanuel/squeez/releases/download/v1.50.0/squeez-linux-x86_64) | 2.3 MiB | `native/linux/x64` |
+| [squeez-macos-universal](https://github.com/claudioemmanuel/squeez/releases/download/v1.50.0/squeez-macos-universal) | 4.0 MiB | `native/darwin/x64` |
+| [squeez-windows-x86_64.exe](https://github.com/claudioemmanuel/squeez/releases/download/v1.50.0/squeez-windows-x86_64.exe) | 2.6 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for squeez lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:13:38Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:26:08Z._
